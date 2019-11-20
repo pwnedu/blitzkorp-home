@@ -1,4 +1,4 @@
 # blitzkorp-home
 blitzkorp-site
 
-simple redirect in js
+simple site redirect in js
